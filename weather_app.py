@@ -4,7 +4,7 @@ from datetime import datetime
 import geocoder
 
 # API key and URL
-API_KEY = '43f40e4033a5a11e9996bfde7f781d36'
+API_KEY = st.secrets["api_key"]
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 FORECAST_URL = 'http://api.openweathermap.org/data/2.5/forecast'
 
