@@ -61,7 +61,7 @@ streamlit run weather_app.py
 ```
 
 ## 🌐 Live Demo
-[https://ankita-weather-app.streamlit.app](https://ankita-weather-app.streamlit.app)
+[https://my-weather-app.streamlit.app/](https://my-weather-app.streamlit.app/)
 
 ## ✨ Future Enhancements
 
